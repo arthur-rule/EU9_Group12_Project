@@ -5,6 +5,7 @@ public class TC_001 {
         System.out.println("First entering data our project");
 
         System.out.println("Hello");
+        System.out.println("Wooden Spoon");
 
     }
 
